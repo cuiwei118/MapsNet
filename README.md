@@ -3,5 +3,5 @@
 
 🛰🛰🛰The PyTorch version of the MapsNet has been uploaded. 
 
-# Citation
+# Requirement
 
