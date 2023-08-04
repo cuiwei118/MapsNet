@@ -1,4 +1,4 @@
-# MapsNet
+# MapsNet: Multi-level feature constraint and fusion network for change detection
 🚀🚀🚀All experiments in the paper are conducted using TensorFlow + Keras.
 
 🛰🛰🛰The PyTorch version of the MapsNet has been uploaded. 
