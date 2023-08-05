@@ -13,3 +13,5 @@ PyTorch version: torch1.10.2 + python3.6
 
 [2] Zhang, C., Yue, P., Tapete, D., Jiang, L., Shangguan, B., Huang, L., & Liu, G. (2020). A deeply supervised image fusion network for change detection in high resolution bi-temporal remote sensing images. ISPRS Journal of Photogrammetry and Remote Sensing, 166, 183-200.
 
+# Acknowledgment
+The codes are based on [DSIFN](https://github.com/GeoZcx/A-deeply-supervised-image-fusion-network-for-change-detection-in-remote-sensing-images). Thanks for their awesome works.
